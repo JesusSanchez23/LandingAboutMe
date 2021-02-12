@@ -1,2 +1,2 @@
 # LandingAboutMe
-Langing pages about myself and my projects.
+Landing page about myself and my projects.
